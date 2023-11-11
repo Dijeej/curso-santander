@@ -12,3 +12,4 @@ Este repositório é voltado para as atividades da bolsa de estudos do Becas San
   * `git commit` para gerar um instantaneo das alterações preparadas e comentários dessa modificação.
   * `git log` para ver todas as alterações realizadas na branch.
   * `git restore` para remover alterações `--staged` para remover da área de preparação.
+  * `git push 'nome da branch'` para adicionar as alterações confirmadas pelo `git commit`.
