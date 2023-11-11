@@ -19,3 +19,4 @@ Este repositório é voltado para as atividades da bolsa de estudos do Becas San
   * `git branch 'nome da branch'` para criar uma nova branch.
   * `git log --oneline --decorate` para verificar em qual branch estamos.
   * `git checkout 'nome da branch'` para mudar a branch trabalhada.
+  * `git merge 'nome da branch'` para mesclar alterações de outra branch, git merge deve ser feito na branch que será atualziada.
