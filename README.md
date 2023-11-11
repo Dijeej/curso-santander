@@ -14,3 +14,4 @@ Este repositório é voltado para as atividades da bolsa de estudos do Becas San
   * `git restore` para remover alterações `--staged` para remover da área de preparação.
   * `git push 'nome da branch'` para adicionar as alterações confirmadas pelo `git commit`.
   * `git pull` para pegar os dados do repositório remoto e mesclar com o local.
+  * `git fetch` para verificar as modificações antes de adiciona-las no repositório local.
