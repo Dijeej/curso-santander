@@ -15,3 +15,7 @@ Este repositório é voltado para as atividades da bolsa de estudos do Becas San
   * `git push 'nome da branch'` para adicionar as alterações confirmadas pelo `git commit`.
   * `git pull` para pegar os dados do repositório remoto e mesclar com o local.
   * `git fetch` para verificar as modificações antes de adiciona-las no repositório local.
+### Branches
+  * `git branch 'nome da branch'` para criar uma nova branch.
+  * `git log --oneline --decorate` para verificar em qual branch estamos.
+  * `git checkout 'nome da branch'` para mudar a branch trabalhada.
